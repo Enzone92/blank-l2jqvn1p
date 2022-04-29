@@ -1,0 +1,23 @@
+{
+ "packages": {
+  "dir": "",
+  "menu": [
+   [
+    "TOKENS",
+    [
+     "tokens"
+    ]
+   ],
+   [
+    "COMPONENTS",
+    [
+     "components"
+    ]
+   ],
+   [
+    "INFRASTRUCTURE",
+    []
+   ]
+  ]
+ }
+}
